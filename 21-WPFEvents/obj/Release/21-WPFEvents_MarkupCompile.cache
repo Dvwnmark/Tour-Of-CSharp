@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\C#.NET TUTORIAL\Tour-Of-CSharp\21-WPFEvents\obj\Debug\
+D:\C#.NET TUTORIAL\Tour-Of-CSharp\21-WPFEvents\obj\Release\
 _21_WPFEvents
 none
 false
-DEBUG;TRACE
+TRACE
 D:\C#.NET TUTORIAL\Tour-Of-CSharp\21-WPFEvents\App.xaml
 1219584333
 
